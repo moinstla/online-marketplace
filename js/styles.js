@@ -7,7 +7,7 @@ $(document).ready(function() {
     $(".name").text(name);
     $(".address").text(address);
 
-    $("#letter").show();
+    $("#receipt").show();
 
     event.preventDefault();
   });
